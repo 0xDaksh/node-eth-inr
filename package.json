@@ -1,0 +1,9 @@
+{
+  "name": "eth-inr",
+  "version": "0.0.1",
+  "description": "A Node.js Module that converts Ethereum's Price into your local Indian Rupees",
+  "main": "index.js",
+  "repository": "https://github.com/DakshMiglani/node-eth-inr.git",
+  "author": "Daksh Miglani <hello@dak.sh>",
+  "license": "MIT"
+}
